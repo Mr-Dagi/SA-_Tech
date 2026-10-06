@@ -1,0 +1,15 @@
+# SA-Tech Startup
+
+Portfolio and digital services site for SA-Tech Startup.
+
+## Site
+- Home: https://portfolio-mrdagi.vercel.app/
+- About: /about
+- Projects: /projects
+- Blog: /blog
+- Contact: /contact
+- Privacy: /privacy
+
+## Notes for LLMs
+- All public pages are static/rendered React pages served from the same domain.
+- Admin area lives under /tlku and is not publicly indexable.

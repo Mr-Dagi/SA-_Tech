@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /tlku
+Disallow: /tlku/*
+
+Sitemap: https://portfolio-mrdagi.vercel.app/sitemap.xml
